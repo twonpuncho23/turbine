@@ -1,4 +1,4 @@
-name: build
+name:P<nchi build
 
 on:
   pull_request: {}
